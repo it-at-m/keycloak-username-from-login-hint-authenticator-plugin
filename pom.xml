@@ -50,7 +50,7 @@
         <maven.compiler.source>21</maven.compiler.source>
         <keycloak.version>26.3.2</keycloak.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <scm.plugin.version>1.11.2</scm.plugin.version>
+        <scm.plugin.version>1.13.0</scm.plugin.version>
         <jboss.logging.version>3.4.1.Final</jboss.logging.version>
     </properties>
 
